@@ -11,3 +11,5 @@ I have build this portfolio using react brick 🔥
     <li>React - JS</li>
 </ul>
 
+<hr/>
+
