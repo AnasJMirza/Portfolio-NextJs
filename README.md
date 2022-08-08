@@ -9,7 +9,6 @@ I have build this portfolio using react brick 🔥
     <li>Next-JS</li>
     <li>Tailwind-Css</li>
     <li>React-JS</li>
-    <li>React-Bricks</li>
 </ul>
 
 <hr/>
