@@ -12,5 +12,5 @@ I have build this portfolio using react brick 🔥
 </ul>
 
 <hr/>
-<!-- askj -->
+
 
